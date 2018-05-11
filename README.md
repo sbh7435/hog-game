@@ -10,3 +10,7 @@ Hog is a game of 2 players. On each turn, current player chooses the number of d
 2- If the person chooses to roll 0 dice, then the outcome of that turn is 2 more than than absulute difference between the digits of the opponent's current score.
 
 3- After the score of turn has been added to the total score of the player, if opponent's score is divisible by current score or vice-versa, then the scores are swapped (i.e. opponent's score = current player score and current player score = opponent score).
+
+
+### To run the game run in terminal- 
+python3 hog_gui.py
